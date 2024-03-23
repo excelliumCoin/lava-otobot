@@ -17,6 +17,7 @@ sudo apt-get upgrade
 sudo apt install git-all
 
 sudo apt-get install npm
+npm i
 ```
 
 ## Botu çalıştırıyoruz
